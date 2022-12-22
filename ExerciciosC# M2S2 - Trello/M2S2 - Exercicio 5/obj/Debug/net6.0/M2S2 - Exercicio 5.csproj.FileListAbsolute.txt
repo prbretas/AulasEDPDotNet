@@ -1,0 +1,5 @@
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ExerciciosM2S3 CSharp\M2S2 - Exercicio 5\obj\Debug\net6.0\M2S2 - Exercicio 5.csproj.AssemblyReference.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ExerciciosM2S3 CSharp\M2S2 - Exercicio 5\obj\Debug\net6.0\M2S2 - Exercicio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ExerciciosM2S3 CSharp\M2S2 - Exercicio 5\obj\Debug\net6.0\M2S2 - Exercicio 5.AssemblyInfoInputs.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ExerciciosM2S3 CSharp\M2S2 - Exercicio 5\obj\Debug\net6.0\M2S2 - Exercicio 5.AssemblyInfo.cs
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ExerciciosM2S3 CSharp\M2S2 - Exercicio 5\obj\Debug\net6.0\M2S2 - Exercicio 5.csproj.CoreCompileInputs.cache
