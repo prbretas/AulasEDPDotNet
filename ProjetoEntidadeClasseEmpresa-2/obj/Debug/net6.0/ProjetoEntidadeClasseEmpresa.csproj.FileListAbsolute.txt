@@ -1,0 +1,15 @@
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.csproj.AssemblyReference.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.AssemblyInfoInputs.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.AssemblyInfo.cs
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.exe
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.deps.json
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.runtimeconfig.json
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.pdb
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\obj\Debug\net6.0\refint\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.pdb
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.genruntimeconfig.cache
+C:\Users\Philippe\Downloads\AULA SENAI DEVINHOUSE\ProjetoEntidadeClasseEmpresa\obj\Debug\net6.0\ref\ProjetoEntidadeClasseEmpresa.dll
